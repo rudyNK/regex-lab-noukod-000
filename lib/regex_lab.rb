@@ -26,4 +26,3 @@ def valid_phone_number?(phone)
  {3}-[0-9]{4})|[0-9]{7})\b)/) ? true : false
 
  end
-end
